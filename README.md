@@ -11,9 +11,10 @@ Different ML models such as SVM, Random Forest are applied to perform the same t
 
 ### File Description
 
-1.  Report.doc - Report which consists of introduction, problem statement, methodoly, details of experiment, results and discussion, comparison and result.
+1.  Report.docx - Report which consists of introduction, problem statement, methodoly, details of experiment, results and discussion, comparison and result.
 2.  Classification of Red Wine Quality using Neural Network.pdf - Describes steps of classification and results obtained.
 3.  Classification of Red Wine Quality using Neural Network.ipynb - Describes steps of classification and results obtained.
+4.  redwinequality.csv  - Dataset of this project.
 
 ### Tools to use
 
